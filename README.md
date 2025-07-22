@@ -7,7 +7,7 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 ## 🚀 Features
 
 - ✅ Add new tasks
-- ❌ Delete tasks
+- ❌ Delete tasks 
 - ☑️ Mark tasks as completed
 - 🌗 Toggle between light and dark mode
 - ✨ Clean and responsive UI with animations
@@ -19,7 +19,7 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 ## 🌐 Live Demo
 
 👉 [Check Live Here](https://digital-clock-phi-lemon.vercel.app/)  
-> _(Update with the correct live link if it's different from this one)_
+> _(Update with the correct live link if it's different from this one)_ 
 
 ---
 
