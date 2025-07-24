@@ -5,7 +5,7 @@ A simple and interactive To-Do List web application built using **HTML**, **CSS*
 ---
 
 ## 🚀 Features
-
+ 
 - ✅ Add new tasks
 - ❌ Delete tasks 
 - ☑️ Mark tasks as completed
