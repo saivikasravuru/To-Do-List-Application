@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 function addTask() {
   const taskText = taskInput.value.trim();
   if (!taskText) return alert("Enter a task!");
-
+ 
   const task = {
     text: taskText,
     done: false
